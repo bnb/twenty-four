@@ -1,0 +1,15 @@
+{
+  "name": "twenty-four",
+  "version": "24.420.69",
+  "description": "https://twitter.com/tesseralis/status/1296932631389470720",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "keywords": [],
+  "author": "Tierney Cyren <hello@bnb.im> (https://bnb.im/)",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^14.3.4"
+  }
+}
